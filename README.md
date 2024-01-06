@@ -1,2 +1,2 @@
 # dwarf
-Software for studying ELF files in Python using lief
+Software for parsing and manipulating ELF files
